@@ -10,8 +10,8 @@ Felicia 个人博客
 
 ### 最新
 
-* [666](http://felicia.16inet.com/solo_zwx/articles/2019/11/16/1573878868188.html)
-* [世界，你好！](http://felicia.16inet.com/solo_zwx/hello-solo)
+* [Array](http://felicia.16inet.com/solo_zwx/articles/2019/11/19/1574131408915.html)
+* [Exception](http://felicia.16inet.com/solo_zwx/articles/2019/11/18/1574067906977.html)
 
 
 
